@@ -4,10 +4,6 @@
 
 This is a simple Snake game project created to practice HTML, CSS, and JavaScript skills. The game is based on the classic Snake game, where the player controls a snake that moves around the game board, eating food to grow longer. The objective is to eat as much food as possible without colliding with the walls or the snake's own body. The game ends when the snake collides with itself or hits the boundary of the game board.
 
-## Demo
-
-You can try out the live demo of the Snake game here: [Demo Link](https://your-demo-link.com)
-
 ## How to Play
 
 - Use the arrow keys on your keyboard (up, down, left, right) to control the direction of the snake.
