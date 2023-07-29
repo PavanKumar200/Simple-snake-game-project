@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    background-color: #262424;
+    color: white;
+    
+}
+#scoreText{
+    font-size: 100px;
+}
+#resetbutton{
+    padding: 10px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 2px solid yellowgreen;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+#resetbutton:hover{
+    background-color: green;
+}
+#gameBoard{
+    border: 3px solid whitesmoke;
+}
+
+
